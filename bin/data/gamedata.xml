@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<combinations></combinations>
+	<game cost="10">
+	</game>
+	<slots count="3" itemsPerSlot="3" speed="500" spinTime="3" spinTimeOffset="1">
+		<item type="banana"/>
+		<item type="cherry"/>
+		<item type="lemon"/>
+		<item type="apple"/>
+		<item type="bell"/>
+	</slots>
+</data>
